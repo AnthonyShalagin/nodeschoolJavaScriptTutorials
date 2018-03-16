@@ -11,8 +11,8 @@ Create a file named revising-strings.js.
 
 */
 
-var pizza = 'pizza is alright';
+var pizza = "pizza is alright";
 
-pizza = pizza.replace('alright', 'wonderful');
+pizza = pizza.replace("alright", "wonderful");
 
-console.log(pizza);
+

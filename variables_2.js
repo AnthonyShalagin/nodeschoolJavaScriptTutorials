@@ -7,5 +7,5 @@
   Then use console.log() to print the example variable to the console.
 */
 
-var example = 'some string';
-console.log(example);
+var example = "some string";
+

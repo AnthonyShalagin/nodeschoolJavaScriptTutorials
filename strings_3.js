@@ -11,6 +11,6 @@
 
 */
 
-var someString = 'this is a string';
-console.log(someString);
+var someString = "this is a string";
+
 
